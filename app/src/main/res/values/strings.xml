@@ -1,0 +1,6 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DYFI</string>
+    <string name="fuerza_percibida">Fuerza percibida</string>
+    <string name="gente_que_lo_sintio"><xliff:g id="numero" example="10">%s</xliff:g> gente lo sintio</string>
+
+</resources>
